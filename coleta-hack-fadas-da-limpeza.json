@@ -1,0 +1,186 @@
+{
+ "team": "Fadas da Limpeza",
+ "turma": "3° e 2° ano A TDS",
+ "members": [
+  {
+   "name": "Ludmila Santana",
+   "role": "Facilitador(a)"
+  },
+  {
+   "name": "Luana Imperiano",
+   "role": "Guardião(ã) do tempo"
+  },
+  {
+   "name": "Mary Anne",
+   "role": "Relator(a)"
+  },
+  {
+   "name": "Gisela Lima",
+   "role": "Pesquisador(a)"
+  },
+  {
+   "name": "Débora Correia",
+   "role": "Porta-voz"
+  }
+ ],
+ "quotes": [
+  {
+   "id": "i8dv9qy",
+   "t": "O lixo é sujo e dificulta a separação."
+  },
+  {
+   "id": "hi5nz65",
+   "t": "Os EPI´s incomodam e dificulta a coleta dos resíduos."
+  },
+  {
+   "id": "xwc24gn",
+   "t": "O lixo é descartado de maneira errada e machuca a gente."
+  }
+ ],
+ "surprise": "Como existe um  mercado por trás da coleta de lixo.",
+ "asked": "Qual o material mais caro e mais difícil de pegar e como isso determina qual lixo é coletado?",
+ "actors": [
+  {
+   "id": "5vp6t3e",
+   "who": "Catadora autônoma",
+   "does": "Coleta reciclagem",
+   "pain": "Como os resíduos vêm contaminados."
+  },
+  {
+   "id": "krcwz35",
+   "who": "Gari e coleta",
+   "does": "Eles coletam resíduos na porta das casas",
+   "pain": "Resíduos espalhados em locais inapropriados."
+  },
+  {
+   "id": "3zih1tw",
+   "who": "Carroceiras",
+   "does": "catam resíduos",
+   "pain": "Condições de trabalho são precárias."
+  },
+  {
+   "id": "bcbqm0o",
+   "who": "Cooperativa",
+   "does": "Compram os resíduos dos catadores",
+   "pain": "Baixa demanda de materiais chegando."
+  },
+  {
+   "id": "lalbpcj",
+   "who": "Condomínio",
+   "does": "Separam os resíduos para a coleta",
+   "pain": "A falta de responsabilidade para com a coleta de resíduos."
+  }
+ ],
+ "notes": [
+  {
+   "id": "1guatle",
+   "t": "Catadoras tem dificuldade de encontrar os recicláveis no lixo pois não separam.",
+   "c": "c1",
+   "votes": 3
+  },
+  {
+   "id": "qsjh5em",
+   "t": "Moradores tem dificuldade em separar a reciclagem porque não é divulgado a forma correta de se reciclar.",
+   "c": "c6",
+   "votes": 1
+  },
+  {
+   "id": "lu15tw4",
+   "t": "Moradores tem dificuldades em acessar pontos de coleta",
+   "c": "c6",
+   "votes": 2
+  },
+  {
+   "id": "mt4glgp",
+   "t": "Moradores tem dificuldades em circular nas ruas devido a forma incorreta de descarte de resíduos que após chuvas muito fortes entopem os canais e dificultam o escoamento das águas",
+   "c": "c3",
+   "votes": 3
+  },
+  {
+   "id": "gwo7wx8",
+   "t": "Os garis trabalham o triplo por conta do descarte de forma incorreta",
+   "c": "c4",
+   "votes": 3
+  },
+  {
+   "id": "5nhnx6c",
+   "t": "Moradores tem dificuldade de encontrar vantagens na separação de resíduos em casa porque os programas de incentivo não são divulgados.",
+   "c": "c2",
+   "votes": 1
+  },
+  {
+   "id": "opxvx0p",
+   "t": "Moradores tem dificuldades em saber local onde descartar o lixo separado",
+   "c": "c5",
+   "votes": 0
+  },
+  {
+   "id": "euqzb0e",
+   "t": "Moradores tem dificuldade em separar alguns tipos de resíduos, como vidro quebrado e esmaltes velhos, da forma correta porque esse tipo de separação de descarte não é ensinado ou divulgado.",
+   "c": "c6",
+   "votes": 1
+  },
+  {
+   "id": "36ynvlt",
+   "t": "Moradores tem poucos pontos para descartar o lixo",
+   "c": "c4",
+   "votes": 0
+  },
+  {
+   "id": "eour16v",
+   "t": "Catadoras tem dificuldade em carregar a grande quantidade em peso dos resíduos coletados",
+   "c": "c1",
+   "votes": 1
+  }
+ ],
+ "scores": {
+  "1guatle": {
+   "imp": 5,
+   "via": 3
+  },
+  "mt4glgp": {
+   "imp": 3,
+   "via": 1
+  },
+  "gwo7wx8": {
+   "imp": 4,
+   "via": 1
+  },
+  "lu15tw4": {
+   "imp": 1,
+   "via": 3
+  },
+  "qsjh5em": {
+   "imp": 1,
+   "via": 5
+  }
+ },
+ "chosen": null,
+ "big": {
+  "who": "Catadoras autônomas de Jaboatão",
+  "pain": "Material não separado",
+  "when": "Conteiners de lixo",
+  "why": "Pode trazer doenças a elas e podem causar machucados sérios como cortes",
+  "act": "Arranjar formas de propagar a forma correta da reciclagem de lixo",
+  "forWho": "facilitar o trabalho das catadoras",
+  "result": "ganhem mais segurança no trabalho",
+  "ods": [
+   3,
+   12
+  ],
+  "odsWhy": "ODS 3 - Porque o problema afeta a saúde e bem-estar das catadoras\nODS 12 - Porque a coleta de lixo expõe como o consumo e a produção de uma sociedade influencia no bem-estar desta.",
+  "proof": "A partir das nossas vivências pessoais e relatos da palestra de hoje (26/10/2026)"
+ },
+ "crit": {
+  "a": true,
+  "b": true,
+  "c": true,
+  "d": true
+ },
+ "mission": {
+  "talk": "Luana vai falar com o vizinho coletor para saber mais dos problemas de coletores\nMary e Gisela vão conscientizar os vizinhos das suas casas",
+  "place": "Centro de Jaboatão",
+  "who": ""
+ },
+ "step": 6
+}
